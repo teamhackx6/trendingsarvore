@@ -22,6 +22,14 @@
   <li>PWA</li>
 </ul>
 
+<h3>😎 Equipe</h3>
+
+<p>Mariana Sieben</p>
+<p>Edson Mello</p>
+<p>Andre Ricardo</p>
+<p>Ana Feula</p>
+<p>Leandro Washington</p>
+
 <h3>✏ Como utilizar o projeto</h3>
 
 ```
