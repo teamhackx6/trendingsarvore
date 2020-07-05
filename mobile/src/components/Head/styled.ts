@@ -43,15 +43,18 @@ export const ContainerNavigation = styled.View`
 `
 
 export const ListNavigation = styled.ScrollView`
-  background-color: #17e5cc;
+  background-color: #ffffff;
 
   height: 40px;
+
+  border-bottom-width: 0.3px;
+  border-color: #0000001f;
 `
 
 export const Title = styled.Text`
   margin: 8px;
 
-  color: #ffffff;
+  color: #17e5cc;
   font-size: 24px;
   font-weight: bold;
 `
